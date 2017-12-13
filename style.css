@@ -1,5 +1,4 @@
 body {
   text-align: center;
-  background-image: url("skybackground.png");
-  background-repeat: repeat
-}
+  linear-gradient(to bottom, #ccffff 0%, #ffffff 100%);
+  }
