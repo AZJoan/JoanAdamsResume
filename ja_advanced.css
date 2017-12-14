@@ -1,5 +1,7 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
+	background:linear-gradient(to bottom, #ccffff 25%, #ffffff 100%);
+  background-repeat: repeat-x;	
 		}
 
 #pic {
