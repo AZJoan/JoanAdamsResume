@@ -5,6 +5,9 @@ body {
 
 #pic {
 	float: right;
+	 border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
 }
 
 
