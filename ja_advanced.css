@@ -5,6 +5,7 @@ body {
 #pic {
 	float: right;
 	 border: 1px solid;
+	background-color: #ccffff;
     padding: 10px;
     box-shadow: 5px 10px #888888;
 }
@@ -13,9 +14,9 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	 border: 5px solid;
+	 border: 3px solid;
         padding: 15px;
-         box-shadow: 5px 10px #888888;
+         box-shadow: 5px 15px #888888;
 	 background-image: url("paperbackground.jpg");
 	}
 
