@@ -1,8 +1,6 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
-	background:linear-gradient(to bottom, #ccffff 0%, #ffffff 100%);
-  background-repeat: repeat-y;	
-		}
+	}
 
 #pic {
 	float: right;
@@ -53,12 +51,10 @@ body {
 	font-size: 18px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 1px solid #999;
-	border-top: 1px solid #999;
 }
 
 h3 {
-font-size: 16px;
+      font-size: 16px;
 }
 
 h4{
