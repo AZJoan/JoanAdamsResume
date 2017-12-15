@@ -6,7 +6,7 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color:#ccffff;
+	background-color:#e6ffff;
 
 	text-align: left;
 }
@@ -43,15 +43,6 @@ h5 {
 li {
 	font-size: 18px;
 	text-align: left;
-}
-
-#button {
-	margin-left: 40%;
-	margin-right: 40%;
-	background-color:#ccffff;
-
-	border-radius: 15px;
-	height: 100px;
 }
 
 .block-date p {
