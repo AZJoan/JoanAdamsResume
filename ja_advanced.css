@@ -1,9 +1,6 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
-	background-image: "PaperBackground.jpg";
-  	background-size:cover;
-
-	}
+		}
 
 #pic {
 	float: right;
@@ -21,6 +18,9 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+	background-image: "PaperBackground.jpg";
+  	background-size:cover;
+
 }
 
 #content-contact {
