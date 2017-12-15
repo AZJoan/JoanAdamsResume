@@ -1,5 +1,7 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
+	background-image: "PaperBackground.jpg";
+  	background-size:cover;
 		}
 
 #pic {
@@ -18,10 +20,7 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	background-image: "PaperBackground.jpg";
-  	background-size:cover;
-
-}
+	}
 
 #content-contact {
 	margin: 0 0 16px 0;
