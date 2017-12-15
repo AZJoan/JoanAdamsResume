@@ -50,7 +50,7 @@ body {
 #content-companyname {
 	margin: 0 0 10px 0;
 	padding: 0 0 10px 0;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
@@ -58,7 +58,7 @@ body {
 }
 
 h3 {
-	
+font-size: 16px;
 }
 
 h4{
@@ -75,8 +75,6 @@ h6 {
 #footer { 
   font-size: 0.90rem;
 	float:center;
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
 	}
 
 
