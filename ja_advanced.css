@@ -11,6 +11,9 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+	 border: 1px solid;
+        padding: 10px;
+         box-shadow: 5px 10px #888888;
 	}
 
 #content-contact {
