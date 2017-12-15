@@ -1,7 +1,6 @@
 body {
-	font: 16px Helvetica, Sans-Serif;
-	background-image: "PaperBackground.jpg";
-  			}
+	font: 16px "Helvetica", Sans-Serif;
+	  			}
 
 #pic {
 	float: right;
@@ -17,6 +16,7 @@ body {
 	 border: 5px solid;
         padding: 15px;
          box-shadow: 5px 10px #888888;
+	 background-image: url("paperbackground.jpg");
 	}
 
 #content-contact {
